@@ -1,0 +1,18 @@
+   ------------------------------------------------------------------
+  | Welcome to ROOT 6.20/06                        https://root.cern |
+  | (c) 1995-2020, The ROOT Team; conception: R. Brun, F. Rademakers |
+  | Built for linuxx8664gcc on Jun 10 2020, 06:10:57                 |
+  | From tags/v6-20-06@v6-20-06                                      |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q'       |
+   ------------------------------------------------------------------
+
+
+Processing CalculateEvents.cpp("DPS","official","SPS","private")...
+Observed event number after 4muon vertex: 43496.4 +- 56847.7
+Observed event number after HLT: 57159.2 +- 59898
+Observed event number after vertex: 65585.2 +- 37371.1
+Observed event number after selection: 74173.1 +- 36255.5
+Observed event number after reconstruction: 75576.4 +- 28854.3
+Observed event number after acception pt: 81903.2 +- 18613
+Observed event number after acception eta: 394514 +- 40221.7
+Observed total event number: 411920
